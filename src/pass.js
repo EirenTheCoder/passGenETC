@@ -1,3 +1,4 @@
+
 class Usuarios{
   constructor(nombre,password){
     this.nombre=nombre;
